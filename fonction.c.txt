@@ -1,0 +1,7 @@
+#include "fonction.h"
+
+
+int test()
+{
+	printf("Hello world");
+}
