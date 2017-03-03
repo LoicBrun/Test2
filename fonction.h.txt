@@ -1,9 +1,17 @@
 #IFNDEF	FONCTION_H
 #DEFINE FONCTION_H
 
+
+
+// libraries includes
 #include <stdio.h>
 #include <stdlib.h>
 
+
+// prototypes listing
 int test();
+
+
+
 
 #ENDIF
