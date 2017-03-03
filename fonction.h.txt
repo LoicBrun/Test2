@@ -1,4 +1,9 @@
+#IFNDEF	FONCTION_H
+#DEFINE FONCTION_H
+
 #include <stdio.h>
 #include <stdlib.h>
 
 int test();
+
+#ENDIF
